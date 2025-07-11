@@ -12,7 +12,7 @@ If you use this code in your research, please cite the following publication:
 }
 ```
 
-This paper can also be found on arxiv: https://arxiv.org/abs/2103.11163 
+
 
 
 ## Acknowledgements
